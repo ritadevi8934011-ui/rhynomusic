@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", None) # Get This API KEY FROM OWNER: @SpYtAPIBot
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DevloperSP/MusicSp",
+    "https://github.com/ritadevi8934011-ui/rhynomusic/tree/main",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
